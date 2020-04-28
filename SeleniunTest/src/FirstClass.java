@@ -10,8 +10,7 @@ public class FirstClass {
 	System.setProperty("webdriver.gecko.driver", "E:\\geckodriver.exe");
 	
 	// selenium class
-		
-		WebDriver driver=new FirefoxDriver();
+	WebDriver driver=new FirefoxDriver();
 		//WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://www.youtube.com");
