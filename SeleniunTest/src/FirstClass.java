@@ -8,6 +8,8 @@ public class FirstClass {
 		
 		//System.setProperty("webdriver.chrome.driver", "D:\\Selenium Jars\\chromedriver.exe");
 	System.setProperty("webdriver.gecko.driver", "E:\\geckodriver.exe");
+	
+	// selenium class
 		
 		WebDriver driver=new FirefoxDriver();
 		//WebDriver driver=new ChromeDriver();
