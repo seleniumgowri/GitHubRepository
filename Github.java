@@ -7,9 +7,15 @@ int y=20;
     x+y;
   }
   
+
     public void mult(int x,iny y)
   {
     x*y;
+
+  public void sub(int x,iny y)
+  {
+    x-y;
+
   }
  
   
