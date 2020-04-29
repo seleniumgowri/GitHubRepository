@@ -20,5 +20,5 @@ int y=20;
  
   
   
-  
+  //Calculator operations are completed ready for use
 }
